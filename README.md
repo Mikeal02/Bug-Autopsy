@@ -78,17 +78,13 @@ Symptoms:
 What went wrong? What was observed?
 
 Reproduction Steps:
-1.
-2.
-3.
-
-Root Cause:
+1. Root Cause:
 Why the bug actually happened.
 
-Fix:
+2. Fix:
 What change resolved the issue.
 
-Prevention:
+3. Prevention:
 How similar bugs can be avoided in the future.
 
 
@@ -96,84 +92,34 @@ How similar bugs can be avoided in the future.
 
 ## 📦 Installation & Setup
 
-Clone the repository:
+- Clone the repository:
 
 ```bash
 git clone https://github.com/Mikeal02/Bug-Autopsy.git
 cd Bug-Autopsy
+```
 
+- Install dependencies:
 
-Install dependencies:
-
+```bash
 npm install
+```
 
+- Run locally:
 
-Run locally:
-
+```bash
 npm run dev
+```
 
-
-Open in browser (example):
-
+- Open in browser (example):
+  
+```bash
 http://localhost:5173
 ```
 
+---
 
-🖼️ Screenshots & Visuals
-
-Add images inside public/images/ and update paths if needed.
-
-1️⃣ Bug Case Example
-
-File:
-
-public/images/bug-case-example.png
-
-
-What to add:
-A screenshot of a fully filled bug analysis showing:
-
-Symptoms
-
-Root Cause
-
-Fix
-
-Prevention
-
-![Bug Case Example](public/images/bug-case-example.png)
-
-2️⃣ Application Interface
-
-File:
-
-public/images/ui-overview.png
-
-
-What to add:
-Main interface where bugs are created or reviewed.
-
-![UI Overview](public/images/ui-overview.png)
-
-3️⃣ Workflow Demo (Optional but Valuable)
-
-File:
-
-public/images/workflow-demo.gif
-
-
-What to add:
-Short GIF showing:
-
-Creating a bug entry
-
-Filling analysis fields
-
-Saving or reviewing the case
-
-![Workflow Demo](public/images/workflow-demo.gif)
-
-📄 License
+## 📄 License
 
 MIT License
 
